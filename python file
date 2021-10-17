@@ -1,0 +1,8 @@
+import os
+import io
+import readline
+import os.path
+
+FH1=open("'sheel.sh","w"')
+FH1.write("market is value added")
+FH1.close()
